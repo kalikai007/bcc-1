@@ -3,7 +3,7 @@
 	url = https://ghproxy.com/https://github.com/libbpf/libbpf.git
 [submodule "libbpf-tools/bpftool"]
 	path = libbpf-tools/bpftool
-	url = https://ghproxy.com/https://github.com/libbpf/bpftool
+	url = https://ghproxy.com/https://github.com/kalikai007/bpftool.git
 [submodule "libbpf-tools/blazesym"]
 	path = libbpf-tools/blazesym
 	url = https://ghproxy.com/https://github.com/libbpf/blazesym
